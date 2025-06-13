@@ -9,7 +9,7 @@ private:
 
 
 public:
-	Student();
+
 	
 	void input(); //사용자로부터 이름과 점수 입력
 	std::string getName();

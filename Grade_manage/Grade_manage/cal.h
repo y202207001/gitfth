@@ -5,7 +5,7 @@ class cal
 
 public:
 
-	double cal_average(const Student& s);
+	double cal_average( Student& s);
 	char getGrade(double avg);
 
 
